@@ -1,5 +1,7 @@
 # jellyfish
 
+Copy the .js file and paste into the editor playground at https://editor.p5js.org or open the .html file for the experience in a web browser.
+
 This p5.js code creates an interactive animation of a jellyfish and its offspring. The code defines a Jellyfish class, a setup function, a draw function, and a mouseClicked event listener. The Jellyfish class has a constructor, display, and update methods. It allows the user to add baby jellyfish on mouse clicks.
 
 Break down:
@@ -27,4 +29,4 @@ Two global variables are defined - jellyfish, the main jellyfish object, and bab
 This function sets up the canvas and creates the main jellyfish object.
 
 6. draw():
-This function is the main loop that continuously updates
+This function is the main loop that continuously updates.
